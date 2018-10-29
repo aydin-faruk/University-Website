@@ -1,0 +1,15 @@
+User-agent: *
+
+Disallow: /admin
+Disallow: /Content
+Disallow: /Dosyalar
+Disallow: /Kontrol
+Disallow: /scripts
+Disallow: 404.php
+Disallow: BDuyuruDetayModal.php
+Disallow: DersNotDetayModal.php
+Disallow: DuyuruDetayModal.php
+Disallow: EtkinlikDetayModal.php 
+Disallow: footer.php
+Disallow: header.php
+                                                                                 
